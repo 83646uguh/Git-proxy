@@ -4,4 +4,3 @@ __pycache__/
 *$py.class
 .env
 api.log
-working_proxies.txt
