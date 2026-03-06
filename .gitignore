@@ -1,0 +1,7 @@
+# .gitignore
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+api.log
+working_proxies.txt

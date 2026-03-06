@@ -1,0 +1,5 @@
+aiohttp
+aiohttp_proxy
+fastapi
+uvicorn
+requests
